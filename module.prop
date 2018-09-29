@@ -1,0 +1,7 @@
+id=Nokia8WatchDogsBootLogo
+name=WatchDogs Bootlogo for Nokia 8
+version=1
+versionCode=1
+author=Fablos
+description=a WatchDogs Bootlogo for Nokia 8
+minMagisk=17000
