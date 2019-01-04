@@ -1,4 +1,4 @@
-# WatchDogs Bootlogo for Nokia 8
+# WatchDogs Bootlogo for Nokia 8 (Oreo)
 ## Description
 Replaces the Bootanimation.zip from
 
@@ -11,7 +11,7 @@ Simple as that.
 ## Changelog
 Initial Release
 ## Requirements
-Nokia 8 ofc :)
+Android 8/8.1 - Pie not Working!
 ## Links
 XDA:
 Maybe Later...
