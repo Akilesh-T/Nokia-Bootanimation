@@ -1,4 +1,4 @@
-# WatchDogs Bootlogo for Nokia 8 (Oreo)
+# WatchDogs Bootlogo for Nokia phones
 ## Description
 Replaces the Bootanimation.zip from with a WatchDogs Animated Bootlogo.
 Simple as that.
