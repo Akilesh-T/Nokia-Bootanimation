@@ -31,8 +31,10 @@ fi
 
 
 if [ $RELEASE == "9" ]; then
-  mkdir -p $INSTALLER/system/product/media
-  cp -rf $BA $INSTALLER/system/product/media/bootanimation.zip
+  mkdir -p $INSTALLER/system/product/CDA/600ID/Power-on-animation
+  mkdir -p $INSTALLER/system/product/CDA/600WW/Power-on-animation
+  cp -rf $BA $INSTALLER/system/product/CDA/600ID/Power-on-animation/bootanimation.zip
+  cp -rf $BA $INSTALLER/system/product/CDA/600WW/Power-on-animation/bootanimation.zip
 fi  
   
 ui_print "  Bootanimation was changed successfully!"  
