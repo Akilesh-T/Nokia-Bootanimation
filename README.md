@@ -11,7 +11,8 @@ Simple as that.
 ## Changelog
 Initial Release
 ## Requirements
-Android 8/8.1 - Pie not Working!
+Nokia 8
+Android 8.1
 ## Links
 XDA:
 Maybe Later...
